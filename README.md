@@ -12,14 +12,8 @@ This repo contains analysis code to:
 - fit logistic regression models and pool estimates across imputations,
 
 ## Repository structure
-- `notebooks/`
-  - `Loss_to_Follow_Up.ipynb`
+- `Loss_to_Follow_Up.ipynb`
 - `data/` *(not included; see below)*
-  - `2022SurveyedPeople.dta`
-  - `2024SurveyedPeople.dta`
-- `outputs/` *(generated)*
-  - `pooled_primary_logit.csv`, `pooled_primary_cov.csv`
-  - `pooled_secondary_logit.csv`, `pooled_secondary_cov.csv`
 
 ## Data availability
 The underlying survey data include human subjects information and are **not** publicly posted in this repository.  
